@@ -32,4 +32,5 @@ $ cd BlackJack/Assets/Scenes/MainScene
 * [Google Code Archive](https://code.google.com/archive/p/vector-playing-cards/downloads) - Other card assets.
 * [Unity Card Game search](https://www.google.com/search?rlz=1C1CHBF_enUS799US799&biw=958&bih=969&tbm=isch&sa=1&ei=2EpwXZmgNsactAWe1IagBA&q=unity+2d+games+card&oq=unity+2d+games+card&gs_l=img.3...2573.3197..3371...0.0..0.93.425.5......0....1..gws-wiz-img.......0i30j0i5i30j0i8i30j0i24.ivk-R349Bis&ved=0ahUKEwiZ7M-Qq7jkAhVGDq0KHR6qAUQQ4dUDCAY&uact=5) - Looking for guides into unity or inspiration for game.
 * [Unity Documenation](https://docs.unity3d.com/2017.4/Documentation/Manual/index.html) - Full documentation for Unity.
-* [Sloan Kelly YT Tutorial](https://www.youtube.com/watch?v=FxH8FoddkVY) - Tutorial video on making a Blackjack game.
+* [Sloan Kelly YT Tutorial](https://www.youtube.com/watch?v=FxH8FoddkVY) - Tutorial video on making a Blackjack game. Note his game is
+nothing like mine!

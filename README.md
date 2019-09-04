@@ -11,8 +11,8 @@ $ git clone [this repo]
 
 $ cd BlackJack/Assets/Scenes/MainScene
 ```
-![](blackjack1.png)
-![](blakcjack2.png)
+![Game Start](blackjack1.png)
+![In Game](blakcjack2.png)
 
 ## Built With
 
@@ -21,12 +21,12 @@ $ cd BlackJack/Assets/Scenes/MainScene
 
 ## Authors 
 
-* **Yash Khade** - *Full Project* - [yhade](https://github.com/ykhade)
+* **Yash Khade** - *Full Project* - [ykhade](https://github.com/ykhade)
 
 ## References
 * [Unity](https://unity.com/) - Game Engine.
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Guide site for C#
-* [Unity-Boards]https://answers.unity.com/questions/56238/font-size-and-style-overrides-are-only-supported-f.html) - Font styling answers
+* [Unity-Boards](https://answers.unity.com/questions/56238/font-size-and-style-overrides-are-only-supported-f.html) - Font styling answers
 * [Unity Asset Store](https://assetstore.unity.com/packages/tools/animation/itween-84) - iTween an animation library for smooth card movement.
 * [Card Asset](https://kenney.nl/assets/boardgame-pack) - Free unity card assets.
 * [Google Code Archive](https://code.google.com/archive/p/vector-playing-cards/downloads) - Other card assets.

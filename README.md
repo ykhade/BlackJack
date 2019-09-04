@@ -12,7 +12,7 @@ $ git clone [this repo]
 $ cd BlackJack/Assets/Scenes/MainScene
 ```
 ![Game Start](https://github.com/ykhade/BlackJack/blob/master/blackjack1.PNG)
-![In Game](https://github.com/ykhade/BlackJack/blob/master/blackjack2.png)
+![In Game](https://github.com/ykhade/BlackJack/blob/master/blackjack2.PNG)
 
 ## Built With
 
